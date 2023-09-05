@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "About me"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "NANDINI"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nandinii27.github.io/github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nandini Gantayat"
-  avatar           : "profile.png"
+  avatar           : "images/PicsArt_11-19-05.56.48.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "FRANCE"
   employer         :
