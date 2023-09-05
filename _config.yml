@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Nandini Gantayat"
   avatar           : "PicsArt_11-19-05.56.48.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "An individual interested in combining the strengths of business, cybersecurity and data science proficiency to deliver innovative solutions to organisations."
   location         : "FRANCE"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :nandinigantayat@gmail.com
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
