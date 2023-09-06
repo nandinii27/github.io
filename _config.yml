@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "fr-France"
 title                    : "About me"
 title_separator          : "-"
 name                     : &name "NANDINI"
@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+#twitter:
+  #username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Nandini Gantayat"
-  avatar           : "images/PicsArt_11-19-05.56.48.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "PicsArt_11-19-05.56.48.png"
+  bio              : "An individual interested in combining the strengths of business, cybersecurity and data science proficiency to deliver innovative solutions to organisations."
   location         : "FRANCE"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "nandinigantayat@gmail.com"
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
